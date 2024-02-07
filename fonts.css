@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "BarcodeFont";
+  src: url("fonts/BarcodeFont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Digital-7";
+  src: url("fonts/digital-7.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Monospace";
+  src: url("fonts/Monospace.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HighSpeed";
+  src: url("fonts/HIGHSPEED.TTF") format("truetype");
+}
